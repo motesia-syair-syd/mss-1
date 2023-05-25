@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://motesia-syair-syd.github.io/mss-1/sitemap.xml
